@@ -1,5 +1,5 @@
 # Hi, I'm Yash Golani 👋  
-**Third-Year B.Tech Robotics and Automation Engineering Student**  
+**Fourth-Year B.Tech Robotics and Automation Engineering Student**  
 **Symbiosis Institute of Technology, Pune**
 
 I’m passionate about building smart systems that integrate AI, embedded systems, and robotics. My work combines low-level hardware control with high-level intelligence, aiming to deliver impactful real-world solutions.
